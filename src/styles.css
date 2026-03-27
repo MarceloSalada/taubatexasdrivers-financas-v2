@@ -1,0 +1,7 @@
+:root{--bg:#020617;--card:#0f172a;--border:#1e293b;--primary:#2563eb;--text:#e5e7eb;--muted:#94a3b8}
+body{margin:0;font-family:Arial;background:#020617;color:var(--text)}
+.container{max-width:900px;margin:auto;padding:20px}
+.card{background:#0f172a;border:1px solid var(--border);border-radius:16px;padding:16px;margin-bottom:12px}
+input{width:100%;padding:10px;margin-top:6px;border-radius:8px}
+button{padding:10px;border-radius:8px;cursor:pointer}
+.primary-btn{background:#2563eb;color:#fff;border:none}
